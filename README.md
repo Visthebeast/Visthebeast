@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Prakash</h1>
 <h3 align="center">A passionate CS undergrad from Thodupuzha</h3>
 
-<p align="left"> <a href="https://twitter.com/visthebeast07" target="blank"><img src="https://img.shields.io/twitter/follow/visthebeast07?logo=twitter&style=for-the-badge" alt="visthebeast07" /></a> </p>
-
 - 🌱 I’m currently learning **Web development, python, C++ and Machine Learning**
 
 - 📫 How to reach me **vishnuprakash222042@gmail.com**
