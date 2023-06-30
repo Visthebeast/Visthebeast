@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vishnuprakash222042@gmail.com**
 
-- Resume [https://rxresu.me/vishnuprakash222042/resumevis](https://rxresu.me/vishnuprakash222042/resumevis)
+- [Resume](https://rxresu.me/vishnuprakash222042/resumevis)
 
 - ⚡ Fun fact **I'm overcompetitive according to myself**
 
