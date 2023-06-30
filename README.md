@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vishnu Prakash</h1>
 <h3 align="center">A passionate CS undergrad from Thodupuzha</h3>
 
-- 🌱 I’m currently learning **Web development, python and C++**
+- 🌱 I’m currently learning **Web development, python, C++, and machine learning**
 
 - 📫 How to reach me **vishnuprakash222042@gmail.com**
 
