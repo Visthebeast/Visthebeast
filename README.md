@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishnu Prakash</h1>
 <h3 align="center">A passionate CS undergrad from Thodupuzha</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visthebeast&label=Profile%20views&color=2fbcab&style=flat" alt="visthebeast" /> </p>
+
 - 🌱 I’m currently learning **Web development, python, C++ and Machine Learning**
 
 - 📫 How to reach me **vishnuprakash222042@gmail.com**
 
-- ⚡ Fun fact **I'm overcompetitive according to myself**
+- Resume [https://rxresu.me/vishnuprakash222042/resumevis](https://rxresu.me/vishnuprakash222042/resumevis)
 
-- [Resume](https://rxresu.me/vishnuprakash222042/resumevis)
+- ⚡ Fun fact **I'm overcompetitive according to myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
