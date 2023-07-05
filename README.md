@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/visthebeast07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="visthebeast07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu prakash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishnu-prakash-073067201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu prakash" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22019501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22019501" height="30" width="40" /></a>
 <a href="https://fb.com/vishnu prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnu prakash" height="30" width="40" /></a>
 <a href="https://instagram.com/__v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__v.shnu" height="30" width="40" /></a>
