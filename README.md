@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishnuprakash222042@gmail.com**
 
-- ⚡ Fun fact **I'm overcompetitive according to myself**
+- ⚡ Fun fact, **I'm overcompetitive according to myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
